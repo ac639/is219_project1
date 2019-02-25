@@ -43,7 +43,7 @@ $(document).ready(function(){
                     minlength: "your subject must consist of at least 4 characters"
                 },
                 number: {
-                    required: "Please enter number,
+                    required: "Please enter number",
                     minlength: "your Number must consist of at least 5 characters"
                 },
                 email: {
